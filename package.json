@@ -1,0 +1,19 @@
+{
+  "name": "functional-javascript-programming",
+  "version": "1.0.0",
+  "description": "JavaScriptで関数型プログラミングを試行する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HirotoIgarashi/Functional-JavaScript-Programming.git"
+  },
+  "author": "Hiroto Igarashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HirotoIgarashi/Functional-JavaScript-Programming/issues"
+  },
+  "homepage": "https://github.com/HirotoIgarashi/Functional-JavaScript-Programming#readme"
+}
